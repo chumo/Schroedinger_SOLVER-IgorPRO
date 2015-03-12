@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/9647/chumo/Schroedinger_SOLVER-IgorPRO.svg)](http://dx.doi.org/10.5281/zenodo.16005)
+
 # Schroedinger_SOLVER-IgorPRO
 
 Schroedinger_SOLVER is an Igor Pro procedure that 
